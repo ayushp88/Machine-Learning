@@ -1,2 +1,2 @@
 # Machine-Learning
-Predicted if a person buys insurance according age
+Predicted if a person buys insurance according to age
